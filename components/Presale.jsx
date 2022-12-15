@@ -334,7 +334,7 @@ export const Presale = () => {
                             padding: "20px",
                         }}
                     >
-                        <Image src="/cknlogo.png" alt="cknlogo" width="300" height="300"/>
+                        <Image src="/cknlogo.png" alt="cknlogo" width="200" height="200"/>
                         <Typography variant="h4">Token Sale is Live</Typography>
                         <Typography variant="h5">10,000,000 CKN/BNB</Typography>
                     </Grid>
